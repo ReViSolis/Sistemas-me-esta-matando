@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sistemas me esta matando", "Sistemas me esta matando\Sistemas me esta matando.csproj", "{160B1E3A-7E60-4C5C-944B-6F6914090FDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{160B1E3A-7E60-4C5C-944B-6F6914090FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{160B1E3A-7E60-4C5C-944B-6F6914090FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{160B1E3A-7E60-4C5C-944B-6F6914090FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{160B1E3A-7E60-4C5C-944B-6F6914090FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {632A8770-8941-478C-95F9-18A8AF67BA2B}
+	EndGlobalSection
+EndGlobal
